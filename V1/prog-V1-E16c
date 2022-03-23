@@ -1,0 +1,6 @@
+30
+5
+NOP
+WRITE 10
+IRET
+NOP

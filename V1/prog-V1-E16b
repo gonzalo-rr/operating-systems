@@ -1,0 +1,7 @@
+30
+5
+NOP
+ADD 20 0
+OS
+NOP
+TRAP 3
